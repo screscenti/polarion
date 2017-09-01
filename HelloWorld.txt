@@ -1,0 +1,3 @@
+This is my txt file for a push to github/bitbucket
+
+I added another line to my hello world
